@@ -4,7 +4,7 @@
 
 1. Download hadoop tar ball from stable [hadoop release](http://hadoop.apache.org/releases.html) (1.2.1 was used with this example)
 2. Unzip the downloaded package into `/usr/local` or somewhere else if you have a preference
-3. Create symlink: `ln -s /user/local/hadoop-1.2.1 /usr/local/hadoop`
+3. Create symlink: `ln -s /usr/local/hadoop-1.2.1 /usr/local/hadoop`
 4. Export a several environment variables:
 ```
 export HADOOP_HOME=/usr/local/hadoop
