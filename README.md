@@ -1,4 +1,4 @@
-# Hadoop Examples
+# Hadoop Tutorial
 
 ## Install hadoop
 
